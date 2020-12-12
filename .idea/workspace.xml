@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Tron Game:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebc69539-1651-42f1-9d6b-10c621aa7afb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cAssPbQklcNFHtatu7xnFt8l8j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tronwithblacksquare.png" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jackson Kids\Tron Game\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TronGame">
+    <configuration name="TronGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TronGame" />
+      <module name="Tron Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tron Game.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Tron_Game_jar/Tron Game.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TronGame" />
+        <item itemvalue="JAR Application.Tron Game.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebc69539-1651-42f1-9d6b-10c621aa7afb" name="Default Changelist" comment="" />
+      <created>1589982937761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589982937761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591292084705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591292084705" />
+    <state x="698" y="350" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590780419194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="350" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590780419194" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1591285267026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591115690707" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591285267026" />
+    <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591288092107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591288092107" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1591289488203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591289488203" />
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1591577023361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591116344239" />
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591577023361" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1591288329978" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1591577023361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591116344239" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591577023361" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1591288329978" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1591577023360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591116344239" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591577023360" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1591288329978" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1591577023361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591116344239" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591577023361" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1591288329978" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590793990811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590793990811" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1590793990811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590793990811" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1590793990810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590793990810" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1590793990811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590793990811" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1591296033678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591296033678" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590087913370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590087913370" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1591576611027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591576611027" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590087622956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1590087622956" />
+  </component>
+</project>
